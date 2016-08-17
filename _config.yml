@@ -1,0 +1,14 @@
+layout_spectrum: 0.05927203199826181
+typography_spectrum: 0.7829592181369662
+color:
+  brandStrength: 0.7667940291576087
+  lightness: 0.34296112973243
+  saturation: 0.7174249095842242
+  rhythmicContrast: 0.22176515799947083
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: create
